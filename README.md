@@ -18,12 +18,12 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <projectRepoUrl>
+   git clone https://github.com/JC-Coder/flutterwave-payment-demo-expressjs.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <projectDirectory>
+   cd flutterwave-payment-demo-expressjs
    ```
 
 3. Install the necessary dependencies:
